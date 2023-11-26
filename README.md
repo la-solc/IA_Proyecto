@@ -81,6 +81,15 @@ ENTREGA #2
 ## Notebook:
 [Proyecto_IA](https://colab.research.google.com/drive/1s77dTCO_lwHxf8CKk4WMUZE2s5PxLVh9?usp=sharing)
 
+ENTREGA FINAL
+
+## Notebooks:
+[01 - modelos supervisados](https://colab.research.google.com/drive/1bj4SZnySrO_dFzbc_xvIA3PVs7q2LSZp?authuser=1)
+[02 - modelos compuestos](https://colab.research.google.com/drive/1y3qbQ_zskMVxRi4y5BwVCwZCjgN_8rzY?authuser=1)
+[03 - Variacion de estructuras](https://colab.research.google.com/drive/1s77dTCO_lwHxf8CKk4WMUZE2s5PxLVh9?authuser=1)
+[04 - modelos supervisados con datos balanceados](https://colab.research.google.com/drive/1p7Uw27U8gtHg2Do9h4dnKEfFaRTA-ZNi?authuser=1)
+
+
 ## Videos:
 [Video entrega 2](https://www.youtube.com/watch?v=8sZhMG-_CPo)
 
